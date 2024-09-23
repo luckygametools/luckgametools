@@ -1,5 +1,5 @@
 # steam-cfg
-Lucky Game Tools
+Lucky Game Tools 《steamtools auto import》
 
 Link with me: LuckyGameTools@gmail.com
 
@@ -9,7 +9,7 @@ Installer exe for china(https://raw.githubusercontent.com/hailsteam/steam-cfg/ma
 
 Link with me: LuckyGameTools@gmail.com    https://t.me/luckygametools
 
-灰常牛B一键自动入库steam游戏工具(自动安装清单文件-解锁游戏-支持DLC-支持家庭共享玩同款游戏)，
+灰常牛B一键steam入库自动化工具(自动安装清单文件-解锁游戏-支持DLC-支持家庭共享玩同款游戏)，
 
 支持GTA5和荒野大镖客2等，游戏资源每天更新中，
 
