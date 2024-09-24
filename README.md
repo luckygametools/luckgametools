@@ -17,7 +17,7 @@ Link with me: LuckyGameTools@gmail.com    https://t.me/luckygametools
 
 大家注意一下使用时：
 
-此软件为纯本地绿色软件，可能会出现杀毒误报，请大家放心食用
+<h1>此软件为纯本地绿色软件，可能会出现杀毒误报，请大家放心食用</h1>
 
 
 1.steamtools和luckygametools都使用了steam目录下的hid.dll文件，相互负盖冲突了，需要备份一下hid.dll文件
