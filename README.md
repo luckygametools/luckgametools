@@ -13,7 +13,7 @@ Link with me: LuckyGameTools@gmail.com    https://t.me/luckygametools
 
 支持GTA5和荒野大镖客2等，游戏资源每天更新中，
 
-墙内的铁汁们下载链接打不开的可以试试这个网盘 https://gofile.io/d/571Vg7
+墙内的铁汁们下载链接打不开的可以试试这个网盘 h[ttps://gofile.io/d/itqXPn](https://gofile.io/d/itqXPn)
 
 大家注意一下使用时：
 
