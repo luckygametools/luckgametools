@@ -25,7 +25,7 @@ Link with me: LuckyGameTools@gmail.com    https://t.me/luckygametools
 
 官网：https://luckygametools.github.io
 
-墙内的铁汁们下载链接打不开的可以试试这个网盘 [https://gofile.io/d/avFclh](https://gofile.io/d/avFclh)
+墙内的铁汁们下载链接打不开的可以试试这个网盘 [https://gofile.io/d/RfGzMB](https://gofile.io/d/RfGzMB)
 
 大家注意一下使用时：
 
