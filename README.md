@@ -23,6 +23,7 @@ Link with me: LuckyGameTools@gmail.com    https://t.me/luckygametools
 
 <h1>此软件为纯本地绿色软件，所有资源来自互联网，可能会出现杀毒误报，请大家放心食用</h1>
 
+官网：https://luckygametools.github.io
 
 墙内的铁汁们下载链接打不开的可以试试这个网盘 [https://gofile.io/d/avFclh](https://gofile.io/d/avFclh)
 
